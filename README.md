@@ -6,5 +6,8 @@ This Project is python Command Line Todo List it use for windows only now.
 # How to install 
 > pip install pysqlite3
 
+#How to use
+> python todo.py
+
 #GIF
-![](https://github.com/Karibura-Cyber/PTCL/blob/main/ezgif-4-9bc24f303374.gif?raw=true)
+![](https://im4.ezgif.com/tmp/ezgif-4-c3a051c3e1aa.gif)
